@@ -1,6 +1,7 @@
 # AI Learning & Projects
 
 이 GitHub는 **청년취업사관학교(SeSAC) NVIDIA AI 코어 엔지니어 교육과정**에서 진행한 실습과 개인적으로 수행한 AI 프로젝트를 정리하고 기록하는 공간입니다.
+Main Github: Goldeast16(https://github.com/goldeast16)
 
 ## Contents
 
