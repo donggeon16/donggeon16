@@ -13,7 +13,6 @@
 교육과정과 별개로 개인적으로 기획하고 구현한 AI 프로젝트를 정리한 Repository입니다.
 
 - basic_image_classification_prac
-- VisDrone_object_detection
 
 ## Education
 - **Program**: [SeSAC NVIDIA AI Core Engineer](https://aisesac.seoul.kr/shop_view?idx=16)
